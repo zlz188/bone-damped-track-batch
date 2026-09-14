@@ -1,0 +1,24 @@
+schema_version = "1.0.0"
+
+id = "bone_damped_track_batch"
+version = "3.6.0"
+name = "Bone Damped Track Batch"
+tagline = "Batch Damped Track constraints with gradient influence"
+maintainer = "zlz <you@example.com>"
+type = "add-on"
+
+website = "https://github.com/zlz188/bone-damped-track-batch"
+
+# Tags must come from the official list:
+# https://docs.blender.org/manual/en/dev/advanced/extensions/tags.html
+tags = ["Animation", "Rigging"]
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-2.0-or-later",
+]
+
+copyright = [
+  "2026 zlz",
+]
