@@ -58,4 +58,4 @@ Built for cloth, hair and skirt chains — especially MMD-style rigs.
 
 ## License
 
-GPL-2.0-or-later — see [LICENSE](LICENSE).
+GPL-3.0-or-later — see [LICENSE](LICENSE).
